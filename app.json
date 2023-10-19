@@ -1,5 +1,5 @@
 {
-  "name": "Original Arab Telethon Source 8.3 V",
+  "name": "Arab Telethon Source 8.3 V",
   "description": "8.3 V { @iqthon }",
   "logo": "https://telegra.ph/file/795bd80cbb23748657b4c.jpg",
   "keywords": ["plugin","modular","productivity"],
@@ -9,14 +9,6 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
-    },
-    "APP_ID": {
-      "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
       "value": ""
     },
     "STRING_SESSION": {
