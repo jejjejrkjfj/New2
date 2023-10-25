@@ -8,15 +8,23 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": "ضع أسمك في التليجرام",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "ضع الأيبي ايدي", 
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "ضع الأيبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": " ضع كود تيرمكس",
+      "description": "ضع كود تيرمكس",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": " ضع معرف بوتك بدون @",
+      "description": "ضع معرف بوتك بدون @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
