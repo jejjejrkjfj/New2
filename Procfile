@@ -1,1 +1,1 @@
-worker: bash pythonkno
+worker: bash pythonknhi
